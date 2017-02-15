@@ -2,6 +2,7 @@
 Tasks from wallethub
 
 SQL part:
+
 1) Write a query to rank order the following table in MySQL by votes, display the rank as one of the
 columns.
 CREATE TABLE votes ( name CHAR(10), votes INT );
@@ -25,6 +26,7 @@ before “2012-01-01” and closed on or after “2012-01-02”. I want an SQL t
 the number of bugs open each day for a range of dates.
 
 Java part:
+
 1) Write an efficient algorithm to check if a string is a palindrome. A string is a
 palindrome if the string matches the reverse of string.
 Example: 1221 is a palindrome but not 1121.
